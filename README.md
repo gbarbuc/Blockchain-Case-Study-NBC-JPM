@@ -1,4 +1,4 @@
-# HomeworkAssignment1
+# NBC JPM blockchain test through the use of CDs
 # National Bank of Canada and J.P.Morgan test blockchain technology with NBC debt issuance in the US Financial Markets
 
 In April 2018 NBC with the support of JPM, issued a USD 150M, one-year floating rate Yankee certificate of deposit, with a parallel simulation of the issuance using blockchain technology. 
